@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+Created-By: "Bogryantsev Igor"
+Main-Class: com.company.Main
